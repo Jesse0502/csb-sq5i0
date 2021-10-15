@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://jesse0502.github.io/csb-sq5i0/static/css/main.7f1998ef.chunk.css",
+    "main.js": "https://jesse0502.github.io/csb-sq5i0/static/js/main.46bc9b58.chunk.js",
+    "main.js.map": "https://jesse0502.github.io/csb-sq5i0/static/js/main.46bc9b58.chunk.js.map",
+    "runtime-main.js": "https://jesse0502.github.io/csb-sq5i0/static/js/runtime-main.655d4aab.js",
+    "runtime-main.js.map": "https://jesse0502.github.io/csb-sq5i0/static/js/runtime-main.655d4aab.js.map",
+    "static/js/2.aec5fc94.chunk.js": "https://jesse0502.github.io/csb-sq5i0/static/js/2.aec5fc94.chunk.js",
+    "static/js/2.aec5fc94.chunk.js.map": "https://jesse0502.github.io/csb-sq5i0/static/js/2.aec5fc94.chunk.js.map",
+    "index.html": "https://jesse0502.github.io/csb-sq5i0/index.html",
+    "static/css/main.7f1998ef.chunk.css.map": "https://jesse0502.github.io/csb-sq5i0/static/css/main.7f1998ef.chunk.css.map",
+    "static/js/2.aec5fc94.chunk.js.LICENSE.txt": "https://jesse0502.github.io/csb-sq5i0/static/js/2.aec5fc94.chunk.js.LICENSE.txt",
+    "static/media/signupHero.d5394890.png": "https://jesse0502.github.io/csb-sq5i0/static/media/signupHero.d5394890.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.655d4aab.js",
+    "static/js/2.aec5fc94.chunk.js",
+    "static/css/main.7f1998ef.chunk.css",
+    "static/js/main.46bc9b58.chunk.js"
+  ]
+}
